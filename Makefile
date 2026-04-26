@@ -60,8 +60,8 @@ pub: push wcn
 	git branch -df pages || :
 	git checkout -b pages
 	git rm -rf .
-	mv tmp/index.html tmp/style.css tmp/wcn.json .
-	git add .
+	cp tmp/index.html tmp/style.css tmp/wcn.json .
+	git add . ':!tmp/'
 	git commit -m 'Update WCN page'
 	git push -f cb pages
 	git push -f gh pages

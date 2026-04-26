@@ -55,7 +55,7 @@ push:
 	git push cb main
 	git push gh main
 
-pub: push wcn
+pages: wcn
 	git checkout main || :
 	git branch -df pages || :
 	git checkout -b pages
@@ -68,3 +68,5 @@ pub: push wcn
 	ls -l
 	git checkout main
 	git ls-tree -rl pages
+
+pub: push pages

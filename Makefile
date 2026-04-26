@@ -59,7 +59,7 @@ pub: push wcn
 	git checkout main || :
 	git branch -df pages || :
 	git checkout -b pages
-	git rm -rf dev/ Makefile README.md wcn.py
+	git rm -rf .
 	mv tmp/index.html tmp/style.css tmp/wcn.json .
 	git add .
 	git commit -m 'Update WCN page'

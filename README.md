@@ -36,21 +36,22 @@ To learn more, please visit [codeberg.org/susam/wander][wc].
 This Project
 ------------
 
-The current project crawls the network of Wander console and makes the
-crawl data available at the following places:
+This project crawls the network of Wander consoles and publishes the
+crawl data at the following locations:
 
-* https://susam.codeberg.page/wcn/
-* https://susam.github.io/wcn/ (Mirror)
+* HTML: https://susam.codeberg.page/wcn/
+* JSON: https://susam.codeberg.page/wcn/wcn.json
 
-The data in the above pages are also available as JSON:
+The same data is mirrored at:
 
-* https://susam.codeberg.page/wcn/wcn.json
-* https://susam.github.io/wcn/wcn.json (Mirror)
+* HTML: https://susam.github.io/wcn/
+* JSON: https://susam.github.io/wcn/wcn.json
 
-The crawling begins from a set of [known][wcn.md] consoles.  The
-crawler performs a breadth first search (BFS) to find all consoles
-link to these known consoles and then other consoles linked to such
-consoles and so on recursively, until no more consoles can be found.
+The crawl begins from a set of [known][wcn.md] consoles.  The crawler
+performs a breadth first search (BFS) to discover consoles linked from
+these known consoles, followed by consoles linked from the newly
+discovered consoles and so on recursively until no more consoles can
+be found.
 
 
 Data Source
@@ -62,9 +63,9 @@ The list of known consoles is maintained in the following file:
 
 This file is maintained both manually as well as automatically.
 Whenever the maintainer becomes aware of a new Wander console
-instance, it is added manually to this file.  Further, whenever the
-Wander crawler discovers new consoles missing from the list, they are
-added to the file automatically.
+instance, it is added to this file manually.  Further, whenever the
+crawler discovers new consoles that are not already listed in this
+file, they are added to it automatically.
 
 
 Add Your Console Link
@@ -77,17 +78,16 @@ or both of the following:
     <https://codeberg.org/susam/wander/issues/1>.
 
  2. Send a pull request to this project to add your console link to
-    [wcn.md][].  While you do so, ensure that you add your link to the
-    bottom of the list.  Keep the commit message as small as possible,
-    for example:
+    [wcn.md][].  If you do so, add your link to the bottom of the list
+    and keep the commit message concise, for example:
 
     ```
     Add https://foo.example/wander/
     ```
 
 The project maintainer will then review your submission and add your
-console link to [wcn.md][].  The next time the crawler is run, your
-console link would automatically appear on the published console data
+console link to [wcn.md][].  The next time the crawler runs, your
+console link will automatically appear on the published console data
 page at <https://susam.codeberg.page/wcn/>.
 
 

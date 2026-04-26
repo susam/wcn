@@ -11,10 +11,11 @@ crawling the network from a set of [known][wcn.md] consoles.
 Contents
 --------
 
-* [What Is Wander Console](#what-is-wander-console)
+* [What Is Wander Console?](#what-is-wander-console)
 * [This Project](#this-project)
 * [Data Source](#data-source)
 * [Add Your Console Link](#add-your-console-link)
+* [Licence](#licence)
 
 
 What Is Wander Console?

@@ -47,15 +47,12 @@ wcn:
 # -----------------------------
 
 push:
-	git remote remove cb || :
-	git remote remove gh || :
-	git remote add cb git@codeberg.org:susam/wcn.git
-	git remote add gh git@github.com:susam/wcn.git
-	git remote add origin $$(git remote get-url cb) || :
-	git push cb main
-	git push gh main
+	git remote remove origin || :
+	git remote add origin git@codeberg.org:susam/wcn.git
+	git remote set-url origin --add git@github.com:susam/wcn.git
+	git push -u origin main
 
-pages: wcn
+pages: push
 	git checkout main || :
 	git branch -df pages || :
 	git checkout -b pages
@@ -63,8 +60,7 @@ pages: wcn
 	cp tmp/index.html tmp/style.css tmp/wcn.json .
 	git add . ':!tmp/'
 	git commit -m 'Update WCN page'
-	git push -f cb pages
-	git push -f gh pages
+	git push -f origin pages
 	ls -l
 	git checkout main
 	git ls-tree -rl pages

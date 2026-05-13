@@ -4,7 +4,7 @@ Wander Consoles List
 This file lists known Wander consoles hosted by independent website
 owners.
 
-This list currently contains 57 known Wander consoles.
+This list currently contains 61 known Wander consoles.
 
 <!-- BEGIN LIST -->
 
@@ -21,7 +21,6 @@ This list currently contains 57 known Wander consoles.
 * https://bjro.dev/wander/
 * https://joshing.you/wander/ (the one for Joshes)
 * https://huffstler.github.io/wander/
-* https://www.acdw.net/wander/ (the coral one)
 * https://fractaldragon.net/wander/
 * https://4thguy.codeberg.page/wander/
 * https://benovermyer.com/wander/
@@ -65,6 +64,11 @@ This list currently contains 57 known Wander consoles.
 * https://stackofgoats.studio/wander/
 * https://goob.sh/wander/
 * https://danielsenff.de/wander/
+* https://idlip.in/wander/console/
+* https://garden.arty.gay/wander/
+* https://karlquinsland.com/wander/
+* https://theologique.ch/wander/
+* https://eliojaillet.ch/wander/
 
 <!-- END LIST -->
 

@@ -29,18 +29,18 @@ Create Snapshot
  4. Copy the JSON object and paste it to the file named
     `tmp/crawl.json`.
 
- 5. Commit and push updated `wcn.md` file.
+ 5. Generate the website:
+
+    ```sh
+    make wcn
+    ```
+
+ 6. Commit and push updated `wcn.md` file.
 
     ```sh
     git add -p
     git commit
     git push -u origin main
-    ```
-
- 6. Generate the website:
-
-    ```sh
-    make wcn
     ```
 
  7. Alternatively, to generate and publish the website, execute the

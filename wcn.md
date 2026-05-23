@@ -68,8 +68,8 @@ This list currently contains 62 known Wander consoles.
 * https://idlip.in/wander/console/
 * https://garden.arty.gay/wander/
 * https://karlquinsland.com/wander/
-* https://theologique.ch/wander/
 * https://eliojaillet.ch/wander/
+* https://dhepworth.com/wander/ (the one with blue gradient)
 
 <!-- END LIST -->
 

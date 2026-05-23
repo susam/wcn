@@ -4,7 +4,7 @@ Wander Consoles List
 This file lists known Wander consoles hosted by independent website
 owners.
 
-This list currently contains 62 known Wander consoles.
+This list currently contains 64 known Wander consoles.
 
 <!-- BEGIN LIST -->
 
@@ -70,6 +70,8 @@ This list currently contains 62 known Wander consoles.
 * https://karlquinsland.com/wander/
 * https://eliojaillet.ch/wander/
 * https://dhepworth.com/wander/ (the one with blue gradient)
+* https://legoraft.com/wander/
+* https://biglist.codeberg.page/wander/
 
 <!-- END LIST -->
 

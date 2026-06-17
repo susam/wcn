@@ -4,7 +4,7 @@ Wander Consoles List
 This file lists known Wander consoles hosted by independent website
 owners.
 
-This list currently contains 64 known Wander consoles.
+This list currently contains 70 known Wander consoles.
 
 <!-- BEGIN LIST -->
 
@@ -12,7 +12,6 @@ This list currently contains 64 known Wander consoles.
 * https://dahlstrand.net/wander/
 * https://www.siddharthagolu.com/wander/
 * https://juleskourelakos.com/wander/
-* https://bitzero.cloud/wander/
 * https://matkelly.com/wander/ (the blue one)
 * https://www.davidtran.me/wander/
 * https://martincapodici.com/wander/
@@ -37,7 +36,6 @@ This list currently contains 64 known Wander consoles.
 * https://exurd.neocities.org/wander/ (the dark purple one)
 * https://exurd.neocities.org/wander/words/ (also dark purple)
 * https://wander.chilli.sh/
-* https://ink.imavinash.net/wander/
 * https://wander.twixter.eu/
 * https://punkto.org/wander/
 * https://cogdogblog.com/wander/
@@ -49,7 +47,6 @@ This list currently contains 64 known Wander consoles.
 * https://bruff.gay/wander/
 * https://dawnreed.net/wander/ (another white one)
 * https://candiedreptile.club/bloglet/wander/ (the one with reptiles)
-* https://arthr.me/wander/
 * https://wander.fexilus.com/
 * https://saint-garou.neocities.org/wander/ (the olive one)
 * https://lists2.roe3.org/wander/
@@ -66,13 +63,31 @@ This list currently contains 64 known Wander consoles.
 * https://goob.sh/wander/
 * https://danielsenff.de/wander/
 * https://idlip.in/wander/console/
-* https://garden.arty.gay/wander/
 * https://karlquinsland.com/wander/
 * https://eliojaillet.ch/wander/
 * https://dhepworth.com/wander/ (the one with blue gradient)
 * https://legoraft.com/wander/
 * https://biglist.codeberg.page/wander/
+* https://turning20w-hub.github.io/vrupwander.github.io/ (the one with mauve buttons)
+* https://wander.kobel.fyi/ (the warm golden amber one)
+* https://www.heyhomepage.com/wander/ (the one with the blue-purple paint-textured button)
+* https://ctrl-c.club/~nttp/wander/
+* https://nosycat.neocities.org/wander/
+* https://nosycat.codeberg.page/wander/
+* https://nosycat.notimetoplay.org/wander.html
+* https://susam.codeberg.page/wander/
+* https://notimetoplay.org/links/wander/
+* https://dualtronic.nekoweb.org/wander/
 
 <!-- END LIST -->
 
-<!-- Please add your console to the end of this list. -->
+<!-- Please add your console to the end of the above list. -->
+
+The following list contains defunct consoles that once worked but are
+currently unavailable.  We track them here so they can be added back to
+the main list if they become operational again.
+
+* https://bitzero.cloud/wander/ <!-- after https://juleskourelakos.com/wander/ -->
+* https://ink.imavinash.net/wander/ <!-- https://wander.chilli.sh/ -->
+* https://arthr.me/wander/ <!-- after https://candiedreptile.club/bloglet/wander/ (the one with reptiles) -->
+* https://garden.arty.gay/wander/ <!-- after https://idlip.in/wander/console/ -->

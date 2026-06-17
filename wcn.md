@@ -4,7 +4,7 @@ Wander Consoles List
 This file lists known Wander consoles hosted by independent website
 owners.
 
-This list currently contains 70 known Wander consoles.
+This list currently contains 71 known Wander consoles.
 
 <!-- BEGIN LIST -->
 

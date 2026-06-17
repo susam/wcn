@@ -47,6 +47,7 @@ This list currently contains 70 known Wander consoles.
 * https://bruff.gay/wander/
 * https://dawnreed.net/wander/ (another white one)
 * https://candiedreptile.club/bloglet/wander/ (the one with reptiles)
+* https://arthr.me/wander/
 * https://wander.fexilus.com/
 * https://saint-garou.neocities.org/wander/ (the olive one)
 * https://lists2.roe3.org/wander/
@@ -89,5 +90,4 @@ the main list if they become operational again.
 
 * https://bitzero.cloud/wander/ <!-- after https://juleskourelakos.com/wander/ -->
 * https://ink.imavinash.net/wander/ <!-- https://wander.chilli.sh/ -->
-* https://arthr.me/wander/ <!-- after https://candiedreptile.club/bloglet/wander/ (the one with reptiles) -->
 * https://garden.arty.gay/wander/ <!-- after https://idlip.in/wander/console/ -->
